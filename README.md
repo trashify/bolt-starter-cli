@@ -41,6 +41,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/bolt-starter-cli.svg)](https://greenkeeper.io/)
+
 Currently this CLI utility doesn't do much. It clones the [bolt-starter](https://github.com/tiaanduplessis/bolt-starter) repo, renames the project if a new name is provided and then installs all the dependencies. It will most likely be extended in the future.
 
 ## Install
