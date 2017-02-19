@@ -5,23 +5,23 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://npmjs.org/package/bolt-starter">
-      <img src="https://img.shields.io/npm/v/bolt-starter.svg?style=flat-square" alt="NPM version" />
+    <a href="https://npmjs.org/package/bolt-starter-cli">
+      <img src="https://img.shields.io/npm/v/bolt-starter-cli.svg?style=flat-square" alt="NPM version" />
     </a>
-    <a href="https://npmjs.org/package/bolt-starter">
-    <img src="https://img.shields.io/npm/dm/bolt-starter.svg?style=flat-square" alt="Downloads" />
+    <a href="https://npmjs.org/package/bolt-starter-cli">
+    <img src="https://img.shields.io/npm/dm/bolt-starter-cli.svg?style=flat-square" alt="Downloads" />
     </a>
     <a href="https://github.com/feross/standard">
       <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square" alt="Standard" />
     </a>
-    <a href="https://travis-ci.org/tiaanduplessis/bolt-starter">
-      <img src="https://img.shields.io/travis/tiaanduplessis/bolt-starter/master.svg?style=flat-square" alt="Travis Build" />
+    <a href="https://travis-ci.org/tiaanduplessis/bolt-starter-cli">
+      <img src="https://img.shields.io/travis/tiaanduplessis/bolt-starter-cli/master.svg?style=flat-square" alt="Travis Build" />
     </a>
     <a href="https://github.com/RichardLitt/standard-readme)">
       <img src="https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square" alt="Standard Readme" />
     </a>
-    <a href="https://badge.fury.io/gh/tiaanduplessis%2Fbolt-starter">
-      <img src="https://badge.fury.io/gh/tiaanduplessis%2Fbolt-starter.svg?style=flat-square" alt="GitHub version" />
+    <a href="https://badge.fury.io/gh/tiaanduplessis%2Fbolt-starter-cli">
+      <img src="https://badge.fury.io/gh/tiaanduplessis%2Fbolt-starter-cli.svg?style=flat-square" alt="GitHub version" />
    </a>
 </div>
 <br>
