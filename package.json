@@ -1,0 +1,40 @@
+{
+  "name": "bolt-starter-cli",
+  "version": "1.0.0",
+  "description": "CLI for the Bolt Starter ⚡",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiaanduplessis/bolt-starter.git"
+  },
+  "homepage": "https://github.com/tiaanduplessis/bolt-starter",
+  "bugs": "https://github.com/tiaanduplessis/bolt-starter/issues",
+  "author": {
+    "name": "Tiaan",
+    "email": "tiaanduplessis@hotmail.com",
+    "url": "tiaanduplessis.co.za"
+  },
+  "bin": {
+    "bolt-starter": "index.js"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "standard --verbose",
+    "lint:fix": "standard --fix --verbose"
+  },
+  "keywords": [
+    "react-native,",
+    "bolt-starter",
+    "cli",
+    "scaffold",
+    "generate"
+  ],
+  "dependencies": {
+    "react-native-rename": "^1.0.10",
+    "shelljs": "^0.7.6"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
