@@ -1,4 +1,4 @@
-<h1 align="center">bolt-starter-cli</h1>
+<h1 align="center">UNMAINTAINED - bolt-starter-cli</h1>
 <br>
 <div align="center">
   <strong>CLI for the Bolt Starter ⚡</strong>
